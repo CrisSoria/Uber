@@ -1,4 +1,4 @@
-### [Test Apk](exp://exp.host/@crissoria/uber-clone)
+### [Test Apk](https://expo.dev/@crissoria/uber-clone)
 
 # Uber app
 
